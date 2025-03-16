@@ -9,6 +9,7 @@ This report presents an in-depth revenue analysis for AtliQ Hospitality, leverag
 The analysis covers revenue performance across properties, booking platforms, occupancy rates, and other crucial indicators.
 
 Key Findings
+
 Total Revenue: ₹1.71 billion
 Realization Percentage: 70.1%
 Occupancy Rate: 57.87%
@@ -22,6 +23,7 @@ Atliq Exotica: ₹0.32 billion
 Atliq Palace: ₹0.30 billion
 
 Performance by Booking Platform
+
 Top booking channels:
 Direct Offline: 26.8%
 MakeYourTrip: ₹699M
@@ -30,13 +32,15 @@ LogTrip: ₹341M
 RevPAR & ADR Analysis
 RevPAR (Revenue per Available Room): ₹7,347
 ADR (Average Daily Rate): ₹12,696
-
 Occupancy: 55.99%
-Occupancy & Cancellations
+
+Occupancy & Cancellations:
+
 The average cancellation rate across all properties is 24.84%.
 Highest occupancy rates were observed in Atliq Blu (Mumbai) at 71.26%, followed by Atliq Grands (Delhi) at 70.1%.
 
-Revenue Trends & Insights
+Revenue Trends & Insights:
+
 Luxury Segment: Contributes 61.61% of total revenue.
 Business Segment: Accounts for 38.39% of revenue.
 
