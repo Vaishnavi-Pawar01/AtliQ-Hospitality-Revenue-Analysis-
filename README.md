@@ -1,4 +1,5 @@
-# AtliQ-Hospitality-Revenue-Analysis-
+# AtliQ_Hospitality_Revenue_Analysis
+
 Created interactive dashboard using Power BI , DAX query.
 
 
